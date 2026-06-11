@@ -130,11 +130,3 @@ GET /coins
 ```
 
 ---
-
-## Resume Bullets
-
-- Built an ETL pipeline in Python to ingest real-time cryptocurrency market data for top 10 coins via CoinGecko's public REST API using Pandas
-- Stored and queried market data in MySQL using optimized SQL queries with indexed columns on `coin_id`, `symbol`, and `fetched_at`
-- Developed 3 interactive analytics charts in Apache Superset (price comparison, volume comparison, price over time) connected to live MySQL data
-- Built a FastAPI REST layer with 5 endpoints including paginated coin history and on-demand Excel report generation
-- Containerized MySQL and FastAPI services using Docker Compose for single-command reproducible deployment
