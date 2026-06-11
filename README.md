@@ -44,6 +44,12 @@ CoinGecko API
 
 ---
 
+## Dashboard Preview
+
+![Crypto Market Analytics Dashboard](docs/dashboard.png)
+
+---
+
 ## Quick Start
 
 ### Prerequisites
