@@ -34,6 +34,12 @@ CoinGecko API
 
 ---
 
+## Live API
+
+**Swagger UI:** https://crypto-api-production-5f2d.up.railway.app/docs
+
+---
+
 ## Features
 
 - **ETL Pipeline** — Fetches top 10 coins by market cap from CoinGecko's public REST API, cleans with Pandas, inserts into MySQL
