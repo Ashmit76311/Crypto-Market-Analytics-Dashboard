@@ -19,6 +19,14 @@ The system demonstrates an end-to-end data engineering workflow covering **ETL p
 
 ---
 
+## 🌐 Live API
+
+**Swagger Documentation**
+
+https://crypto-api-production-5f2d.up.railway.app/docs
+
+---
+
 ## 🏗️ System Architecture
 
 ```text
@@ -155,14 +163,6 @@ The system demonstrates an end-to-end data engineering workflow covering **ETL p
   <img src="https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-
----
-
-## 🌐 Live API
-
-**Swagger Documentation**
-
-https://crypto-api-production-5f2d.up.railway.app/docs
 
 ---
 
